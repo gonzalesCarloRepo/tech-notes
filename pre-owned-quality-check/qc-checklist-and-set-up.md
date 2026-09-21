@@ -1,104 +1,70 @@
-=============================================================================================
+# Device Inspection & Warranty Policy
 
-\#### \*\*NOTES:\*\* 
+## ⚠️ Policy & Warranty Details
 
-\- NO WARRANTY for the battery and charger
+### Important Policies
+* **No Change of Mind Policy**
+* **No Refund**
+* **Replacement Processing:** 3 to 5 months
 
-\- 7 days replacement (no human error)
+---
 
-\- 30 days warranty (no human error)
+### Warranty Coverage
 
-\- 3 days LCD replacement
+| Item / Scope | Coverage | Notes |
+| :--- | :--- | :--- |
+| **Battery & Charger** | ❌ No Warranty | |
+| **Replacement** | 7 Days | No human error |
+| **Unit Warranty** | 30 Days | No human error |
+| **LCD Replacement** | 3 Days | |
 
-\#### \*\*HUMAN ERROR:\*\*
+---
 
-\- nahulog, nabasa, nabuka or noticeable na scratch or physical damage
+### Classification Guide
 
-\#### \*\*NON HUMAN ERROR:\*\*
+#### 🚫 Human Error
+* Dropped (*nahulog*)
+* Water damaged (*nabasa*)
+* Cracked (*nabuka*)
+* Noticeable scratches or physical damage
 
-\- \*\*NOT\*\* working or detecting port
+#### ✅ Non-Human Error
+* Port not working or not detecting devices
+* No boot up and no display
+* No keyboard buttons functioning or only one button working
+* Unresponsive trackpad / mouse pad
 
-\- \*\*NO\*\* boot up and display
+---
 
-\- \*\*NO\*\* or One keyboard button functioning
+## 📋 Quality Check Inspection Steps
 
-\- Unresponsive mouse track pad
+1. **Power Supply**
+   * Plug in the charger.
 
+2. **Battery Health**
+   * Run the following command in Command Prompt:
+     ```cmd
+     powercfg /batteryreport
+     ```
 
+3. **Connectivity**
+   * Check Bluetooth connection.
+   * Check Wi-Fi connection.
 
-\### \*\*IMPORTANT:\*\*
+4. **Audio & Media**
+   * Test speakers/sound output via YouTube.
+   * Check the web camera function.
 
-\- NO CHANGE OF MINE POLICY
+5. **Input Devices**
+   * Perform an interactive test using an online Keyboard Tester.
 
-\- NO REFUND
+6. **Screen & LCD Inspection**
+   * Test for dead pixels and screen defects using:
+     * [Displaytech Dead Pixel Test](https://displaytech.org/en/tests/dead.pixel.htm)
+     * [EIZO Monitor Test](https://www.eizo.be/monitor-test/)
 
-\- 3 TO 5 MONTHS REPLACEMENT PROCESSING
-
-
-
-=============================================================================================
-
-
-
-\*\*\*Step 0:\*\*\* Plugged in the charger
-
-
-
-\*\*\*Step 1:\*\*\* Check battery health
-
-
-
-```
-
-powercfg /batteryreport
-
-```
-
-
-
-\*\*\*Step 2:\*\*\* Check Bluetooth, Wi-fi
-
-
-
-\*\*\*Step 3:\*\*\* Check Sound via YT
-
-
-
-\*\*\*Step 4:\*\*\* Check Camera
-
-
-
-\*\*\*Step 5:\*\*\* Check the Keyboard (Keyboard Test)
-
-
-
-\*\*\*Step 6:\*\*\* Check Screen / LCD via:
-
-" https://displaytech.org/en/tests/dead.pixel.htm "
-
-
-
-" https://www.eizo.be/monitor-test/ "
-
-
-
-Step 7: Check ports 
-
-\- USB via Mouse
-
-\- Lan Cable
-
-\- HDMI / VGA
-
-\- Audio jack
-
-
-
-=============================================================================================
-
-
-
-
-
-
-
+7. **Ports Inspection**
+   * **USB Ports:** Test using a USB mouse.
+   * **LAN Port:** Test with an Ethernet cable.
+   * **Display Output:** Test HDMI / VGA ports.
+   * **Audio Output:** Test using the audio jack.
