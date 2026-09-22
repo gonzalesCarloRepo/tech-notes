@@ -3,7 +3,7 @@
 - Cash
 - Bank Transfer via BDO to GCash
 
-2. **PROCESSING FEE (straight) WITH 3% Terminal Fee**
+2. **PROCESSING FEE (straight) WITH 3.5% Terminal Fee**
 - All except ***BDO***, ***MetroBank***, ***BPI***
 
 3. **Installment**
