@@ -9,8 +9,9 @@
 3. **Installment**
 - Only ***BDO***, ***MetroBank***, ***BPI***
 
+
 4. **Financing**
-- Home Credit (*based on **SRP***)
+- Home Credit (*based on **SRP***) - only brand new laptops are being accepted
 - Skyro (*based on **Cash***)
 - Salmon (*base on **Cash***)
 
@@ -35,11 +36,11 @@ shift fn f10
 or 
 shift f10)
 ```
-4. Do the offline bypass using the cmd:
+4. Do the offline bypass using the cmd then enter:
 
 
 ```
-irm https://get.activated.win | iex
+oobe\bypassnro
 ```
 5. set-up (password, name laptop , account password skip) 
 6. send ms office to desktop
